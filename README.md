@@ -1,16 +1,42 @@
-### Hi there 👋
+<a href="https://github.com/prosaxx">
+  <div align="center">
+    <h2>Oiii! Eu sou o Sebastião Andrade 💻 </h2>
+  </div>
+  <div align="center">
+    <img height=400em align="center" src="https://miro.medium.com/max/3200/1*OF0xEMkWBv-69zvmNs6RDQ.gif"/>
+    <!--<img height=400em align="center" src="https://cdn.dribbble.com/users/214929/screenshots/4366947/media/b1f35b3c0416b23663b86d0aea416cc5.gif"/>-->
+    <!--<img height=400em align="center" src="https://i1.wp.com/media.giphy.com/media/l3vRfNA1p0rvhMSvS/giphy.gif?w=640&ssl=1"/>-->
+    
+  </div>
+  <br>
+  <div align="center">
+    <a href="https://github.com/prosaxx">
+   <img height=160em align="center" src="https://github-readme-stats.vercel.app/api?username=prosaxx&count_private=true&show_icons=true&theme=algolia" />
+   <img height=160em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prosaxx&layout=compact&theme=algolia" />
+   <!--<img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif"/>-->
+  </div>
+  <br>
+    
+  <div style="display: inline_block">
+      <img alt="Seb-html" width="40" height="35" src="https://cdn-icons.flaticon.com/png/512/186/premium/186320.png?token=exp=1641324732~hmac=784bea31e70ac971ccae2ca87b4db5d6"/>
+       <img alt="Seb-css" width="40" height="35" src="https://cdn-icons-png.flaticon.com/512/29/29600.png"/>
+      <img alt="Seb-Js" width="40" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+      <img alt="Seb-py" width="40" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+      <img alt="Seb-c++" width="40" height="35" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" />
+  </div>
+    
+ ##
+    
+ <div>
+  <a 
+       href="https://www.linkedin.com/in/sebasti%C3%A3o-andrade-24465557/" target="_blank" rel="noopener">
+       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+ </div>
+  
 
-<!--
-**prosaxx/prosaxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+  
+  
+  
+  
