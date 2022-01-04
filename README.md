@@ -31,10 +31,12 @@
   <a 
        href="https://www.linkedin.com/in/sebasti%C3%A3o-andrade-24465557/" target="_blank" rel="noopener">
        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
+  </a>
+ 
  </div>
   
-![Snake animation](https://github.com/prosaxx/prosaxx/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/prosaxx/prosaxx/blob/output/github-contribution-grid-snake.svg)
+
   
   
   
