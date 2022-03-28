@@ -18,7 +18,7 @@
   <br>
     
   <div style="display: inline_block">
-      <img alt="Seb-html" width="40" height="35" src="https://cdn-icons-png.flaticon.com/512/29/29515.png/>
+      <img alt="Seb-html" width="40" height="35" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/344/external-html-computer-science-flaticons-lineal-color-flat-icons.png"/>
       <img alt="Seb-css" width="40" height="35" src="https://cdn-icons-png.flaticon.com/512/29/29600.png"/>
       <img alt="Seb-Js" width="40" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
       <img alt="Seb-py" width="40" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
